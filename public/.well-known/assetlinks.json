@@ -6,9 +6,9 @@
     ],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.wellnessz.bloom",
+      "package_name": "com.wellnessz.reppsfitness",
       "sha256_cert_fingerprints": [
-        "1E:D5:13:AA:AF:9C:1D:DF:43:3F:41:77:4B:DE:F7:58:29:AE:2D:C3:F7:93:58:A3:9C:43:4A:22:EA:FB:B2:E3"
+        "CD:AE:B4:EF:FB:0D:51:97:C6:3D:F5:78:99:D4:03:05:12:01:77:7A:FF:61:5A:D7:2F:48:77:1B:F4:40:99:85"
       ]
     }
   }
